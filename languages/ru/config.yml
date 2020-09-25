@@ -20,7 +20,7 @@ Messages:
   Please-reconnect: '&cНе определённая ошибка. Пожалуйста перезайдите на сервер!'
   Help:
     Admin:
-    - '&4 /alonsotags open <player> &f- &cОткрыть меню тегов > игроку'
+    - '&4 /alonsotags open <игрок> &f- &cОткрыть меню тегов > игроку'
     - '&4 /alonsotags reload &f- &cПерезагрузить конфиг (Рекомендуется рестартнуть сервер)'
     User:
     - '&4 /alonsotags open &f- &cОткрыть меню тегов'
@@ -44,7 +44,7 @@ Messages:
       None: None
       Format: '{TAG}'
     Tag-scoreboard:
-      None: '&7None'
+      None: '&7Нету'
       Format: '{TAG}'
 Permissions:
   Admin: alonsotags.admin
